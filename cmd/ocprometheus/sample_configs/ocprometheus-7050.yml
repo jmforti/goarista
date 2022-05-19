@@ -20,6 +20,7 @@ subscriptions:
         - /Sysdb/environment/archer/temperature/status
         - /Sysdb/hardware/archer/xcvr/status
         - /Sysdb/interface/config/eth
+        - /Sysdb/interface/status/eth
         - /Kernel/proc
         - /Sysdb/connectivityMonitor
 
